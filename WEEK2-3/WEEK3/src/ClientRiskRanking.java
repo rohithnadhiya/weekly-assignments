@@ -13,7 +13,6 @@ class Client {
         return name + ":" + riskScore;
     }
 }
-
 public class ClientRiskRanking {
 
     // Bubble Sort (ascending)
